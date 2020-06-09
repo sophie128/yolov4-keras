@@ -1,0 +1,9 @@
+VOCdevkit/VOC2007/Annotations/
+VOCdevkit/VOC2007/ImageSets/Main/
+VOCdevkit/VOC2007/JPEGImages/
+logs
+*__pycache__*
+*.h5
+downloaded_datasets
+2007_*.txt
+voc2yolo4.py
